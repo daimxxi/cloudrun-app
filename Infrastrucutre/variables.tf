@@ -1,6 +1,6 @@
 # Variables for dynamic configuration
 variable "project_id" {
-    default = "d360-devops-tests"
+    default = "project-id"
 }
 
 variable "region" {
